@@ -1,5 +1,7 @@
 Emile Vlahos
 evlahos21@sjs.org
+<<<<<<< HEAD
 Hello I am, editing my info.txt again
+Fall 2020
 
 
